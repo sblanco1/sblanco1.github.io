@@ -25,6 +25,7 @@ div {
 }
 
 .left {
+    position: relative;
 	height: 315px;
 	background-color: #A7DBD8;
 	float: left;
